@@ -7,7 +7,7 @@
 ## 💫 About Me:
 🎓 Bachelors in Computer Science<br>
 📍 Web Design Intern at Macaulay Honors College<br>
-🌟 Previously at Samsung Innovation Center, and JP Morgan & Chase<br>
+🌟 Previously at JP Morgan & Chase, and Samsung Innovation Center<br>
 🌈 Enthusiastic about Software Engineering and Data Science
 
 
