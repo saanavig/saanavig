@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 🎓 Bachelors in Computer Science<br>
-📍 Web Design Intern at Macaulay Honors College<br>
+📍 Software Engineer at Deutsche Bank<br>
 🌟 Previously at JP Morgan & Chase, and Samsung Innovation Center<br>
 🌈 Enthusiastic about Software Engineering and Data Science
 
